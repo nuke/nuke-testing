@@ -1,3 +1,5 @@
+Let's check out fetching a branch.
+
 Now I want to find out more about branching.
 
 I'm still curious to check out linking bugs.
