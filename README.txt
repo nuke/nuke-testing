@@ -7,3 +7,4 @@ This is also my first edit of the readme.
 
 I'm adding text that's different over here to see what happens.
 
+I think I understand forking, but I'd like to try it out to be sure.
